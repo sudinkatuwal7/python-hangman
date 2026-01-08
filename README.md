@@ -7,4 +7,4 @@ A simple command-line Hangman game built using Python.
 2. Run:
    python main.py
 
-#Enjoy the game and try your best to save the guy!!
+# Enjoy the game and try your best to save the guy!!
